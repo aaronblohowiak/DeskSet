@@ -2,7 +2,7 @@
   "author": "Aaron Blohowiak <aaron.blohowiak@gmail.com> (http://aaronblohowiak.com)",
   "name": "DeskSet",
   "description": "YAAJSL (Yet Another Asynchronous JS Library)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "http://github.com/aaronblohowiak/DeskSet",
   "repository": {
     "type": "git",

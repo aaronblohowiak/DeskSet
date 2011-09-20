@@ -6,7 +6,7 @@ exports.test_sucess = function(test, assert){
     test.finish();
   });
   
-  set.add("up", function(arg, cb){cb(null, arg.toUpperCase());}, ["upper"]);
+  set.add("up", function(arg, cb){cb(null, arg.toUpperCase());}, "upper");
 
 };
 
@@ -16,7 +16,7 @@ exports.test_failure = function(test, assert){
     test.finish();
   });
   
-  set.add("up", function(arg, cb){cb("error");}, ["upper"]);
+  set.add("up", function(arg, cb){cb("error");}, "upper");
 };
 
 
