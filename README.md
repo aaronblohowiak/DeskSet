@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/aaronblohowiak/DeskSet.png)](http://travis-ci.org/aaronblohowiak/DeskSet)
 # DeskSet - Yet Another Asynchronous JS Library
 
 ![Desk Set](http://ia.media-imdb.com/images/M/MV5BMTkxNTE4NzgyNV5BMl5BanBnXkFtZTcwMzA0MzUyMQ@@._V1._SY317_CR4,0,214,317_.jpg)
